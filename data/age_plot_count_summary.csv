@@ -1,0 +1,12 @@
+plot_combination,planet_N,host_star_N,multi_planet_host_star_N
+All planets in input CSV,4033,3210,546
+star_age vs semi_major_axis,2757,2107,423
+star_age vs orbital_period,3792,2998,527
+star_age vs temp_calculated,1501,1181,201
+star_age vs eccentricity,2289,1742,360
+star_age vs inclination,1822,1460,235
+star_age vs radius,3051,2558,329
+star_age vs k,1342,1021,208
+star_age vs angular_distance,555,460,62
+star_age vs omega,1190,877,222
+star_age vs mass,1664,1357,204
